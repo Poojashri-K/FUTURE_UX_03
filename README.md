@@ -1,7 +1,7 @@
-  # Agentflow CRM Dashboard UI
+  # AgencyFlow CRM Dashboard UI
 
-  This is a code bundle for Agentflow CRM Dashboard UI
-  The original project is available at https://app-blotch-58544787.figma.site/
+  -This is a code bundle for AgencyFlow CRM Dashboard UI
+  -The original project is available at https://app-blotch-58544787.figma.site/
 
   #### Take a look on Design Rationale file to get more info
 
